@@ -1,0 +1,35 @@
+﻿  OOP.cpp
+C:\Users\osama\source\repos\OOP\OOP\OOP.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\osama\source\repos\OOP\OOP\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\osama\source\repos\OOP\OOP\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\osama\source\repos\OOP\OOP\clsUser.h(26,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\osama\source\repos\OOP\OOP\clsInputValidate.h(111,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsInputValidate.h(115,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(207,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(152,12): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsTransfer.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsTransfer.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsAddNewUserScreen.h(118,17): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\osama\source\repos\OOP\OOP\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsUpdateCurrencyRateScreen.h(30,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\osama\source\repos\OOP\OOP\clsLoginScreen.h(46): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\osama\source\repos\OOP\OOP\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\osama\source\repos\OOP\OOP\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  OOP.vcxproj -> C:\Users\osama\source\repos\OOP\x64\Debug\OOP.exe
